@@ -22,4 +22,10 @@ Bu projede amaç:
 - **Scikit-learn**
 -**Matplotlib / Seaborn**
 
+## Geliştiriciler
+- Zeynep Arda YILDIZ
+- Defne OKTAY
+- Serenay ARGUÇ
+- Eylül ZENGİN
+
 
